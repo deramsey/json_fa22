@@ -1,0 +1,13 @@
+section{
+    width: 40%;
+}
+
+.Platinum {
+    padding: 12px;
+    border: 6px solid #ccccff;
+}
+
+.Gold{
+    padding: 12px;
+    border: 6px solid #aa9933;
+}
